@@ -1,6 +1,5 @@
 ENSAP Mobile
 ================
-![](https://mastodon.etalab.gouv.fr/system/media_attachments/files/000/002/448/original/ef7957cdd38bd640.png)
 
 Code Natif Android
 
