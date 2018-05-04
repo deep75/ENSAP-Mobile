@@ -7,5 +7,5 @@ Code Natif Android
 
 How to use
 ------------
-Import into Android Studio. Edit appConfig.json as appropriate.
+Importer dans Android Studio. Et éditer appConfig.json de manière appropriée.
 
